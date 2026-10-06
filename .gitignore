@@ -1,0 +1,20 @@
+# Nextcloud sync files
+.nextcloudsync.log
+.sync_*.db
+.sync_*.db-shm
+.sync_*.db-wal
+.sync-exclude.lst
+
+# Personal content
+CV/
+Docs/
+Keys/
+Krater/
+Notes/
+Photos/
+Sound/
+Talk/
+Testpress/
+wallet
+*.pdf
+*.docx
